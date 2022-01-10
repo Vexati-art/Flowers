@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<img src="Flowers.jpeg" alt="Flower" width="500" height="500">
+<img src="Flowers.jpeg" alt="Flower">
 
 </body>
 </html>
